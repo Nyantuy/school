@@ -1,6 +1,6 @@
 # Login-System 
 
-I've updated the login-System more security.
+## Updated Login Security
 1) allow multiple user login
 2) get user password as hash password
 3) check user for the verification status
@@ -8,6 +8,6 @@ I've updated the login-System more security.
 
 A simple Login System:
 
-User can register an account, before login user need to verify his/her account. user will received a OTP code send by PHPMailer.
+User can register an account, before login user need to verify their account, and will receive an OTP code sent by PHPMailer.
 
-User can reset his/her password, user will received a new url link send by PHPMailer to reset his/her new password.
+User can reset their password and will receive a new url link sent by PHPMailer to reset the password
